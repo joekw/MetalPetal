@@ -89,7 +89,6 @@
 #import "MTIShaderFunctionConstants.h"
 #import "MTIShaderLib.h"
 #import "MTISKSceneRenderer.h"
-#import "MTIImageView.h"
 #import "MTIThreadSafeImageView.h"
 
 FOUNDATION_EXPORT double MetalPetalVersionNumber;
