@@ -34,15 +34,7 @@ extension MTIImageViewProtocol {
 
 #if canImport(UIKit)
 
-extension MTIImageView: MTIImageViewProtocol {
-    
-}
-
 extension MTIThreadSafeImageView: MTIImageViewProtocol {
-    
-}
-
-extension MTIImageView: InputPortProvider {
     
 }
 
